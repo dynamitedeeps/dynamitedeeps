@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dynamitedeeps
 - 👀 I’m interested in exploring programming languages
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on js,php,jquery,sql
+- 🌱 I’m currently learning react
+- 💞️ I’m looking to collaborate on laravel,wordpress,js,php,jquery,sql
 - 📫 How to reach me 
 
 <!---
