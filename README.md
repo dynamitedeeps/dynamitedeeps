@@ -1,32 +1,35 @@
-👋 Hi, I’m Deepanshu Sonkhla
+👋 Deepanshu Sonkhla
 
-🚀 Software Engineer | Full-Stack Developer | AI-Curious Builder
+Senior Software Engineer | Full-Stack (Laravel, MERN) | Cloud & AI-Ready
 
-I’m a hands-on developer with 6+ years of experience building scalable web applications using LAMP and MERN stacks. I enjoy turning messy requirements into clean, maintainable systems—and lately, I’m deep into modernizing legacy apps, cloud-first architectures, and AI-powered features.
+I’m a results-driven Software Engineer with 6+ years of experience building, scaling, and modernizing web applications. I specialize in backend-heavy full-stack systems, API-driven architectures, and performance-focused development.
 
-I don’t just ship code. I think about performance, scale, UX, and the business impact behind every line.
+I’ve worked across startups and production systems where stability, scalability, and delivery speed actually matter—not just demos.
 
-🧠 What I’m Focused On Right Now
+🧠 Professional Summary (What Recruiters Care About)
 
-🔄 Transforming monolithic apps → modular & scalable systems
+6+ years of hands-on experience in PHP (Laravel) and JavaScript (MERN)
 
-🤖 Exploring AI-first SaaS ideas (recommendations, automation, analytics)
+Strong backend engineering mindset with full-stack execution
 
-☁️ Cloud-native development (performance, cost, scale)
+Proven experience modernizing legacy/monolithic systems
 
-🧩 Building products that actually solve real problems
+Comfortable owning features end-to-end: design → build → deploy → optimize
 
-🛠️ Tech Stack I Work With
+Actively integrating AI-assisted workflows into real products
 
-Backend
+💼 Core Technical Skills
+Backend & APIs
 
 PHP (Laravel 9/10)
 
 Node.js, Express
 
-REST APIs, Webhooks
+RESTful APIs, Webhooks
 
-Stripe, Firebase, Google APIs
+Stripe payments, Firebase messaging
+
+Secure authentication & role-based access
 
 Frontend
 
@@ -36,7 +39,7 @@ React.js
 
 HTML, CSS, Tailwind
 
-WordPress (custom themes & plugins)
+WordPress (custom themes, plugins, performance tuning)
 
 Databases
 
@@ -46,58 +49,60 @@ MongoDB
 
 Firebase
 
-Dev & Infra
+DevOps & Engineering Practices
 
-Git, GitHub
+Git, GitHub workflows
 
-Linux servers
+Linux server environments
 
-API integrations
+API performance optimization
 
-Performance & SEO optimization
+SEO & Core Web Vitals improvements
 
-🔥 Things I’m Actually Good At
+Debugging production issues under pressure
 
-Designing clean backend architectures
+📌 Selected Work Highlights
 
-Handling large datasets & performance bottlenecks
+Built and maintained scalable Laravel applications handling complex content and feed logic
 
-Building multi-step forms & complex user flows
+Integrated Stripe payment flows with secure, multi-step user journeys
 
-API integrations (payments, notifications, third-party services)
+Designed multi-step forms with API-driven submissions and smooth UX
 
-Debugging issues others give up on 😄
+Worked on large datasets & leaderboard calculations with performance constraints
 
-💡 How I Think About Development
+Delivered production-ready WordPress solutions beyond basic themes
 
-“Good code is not just working code — it’s code that survives change.”
+🚀 Engineering Mindset
 
-I believe:
+Writes clean, maintainable, and testable code
 
-Simplicity beats cleverness
+Thinks in systems, not just features
 
-Scalability matters from day one
+Balances speed with long-term scalability
 
-AI will assist developers, not replace builders who understand systems
+Uses AI as a productivity multiplier, not a crutch
 
-🌱 Currently Learning / Exploring
+I don’t just follow requirements — I question them to build better solutions.
 
-AI integrations in production apps
+🌱 Currently Exploring
 
-DevRel & Developer Advocacy mindset
+AI-first SaaS architecture
+
+Developer Advocacy & DevRel paths
+
+Cloud-native scalability patterns
 
 Forward-deployed engineering models
 
-Better system design for long-term products
+🤝 Open To
 
-🤝 Let’s Connect
+Senior Software Engineer roles
 
-💼 Open to collaboration, side projects & meaningful products
+Full-Stack / Backend-focused positions
 
-🛠️ Love solving tough engineering problems
+Remote or hybrid opportunities
 
-📫 Reach out if you’re building something interesting
+Product-driven teams solving real problems
 
-⚡ Fun Fact
-
-I enjoy breaking things just to understand how to rebuild them better.
+📫 Let’s talk if you’re hiring engineers who can ship, scale, and adapt.
