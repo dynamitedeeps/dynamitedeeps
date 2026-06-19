@@ -119,4 +119,4 @@ Product-driven teams solving real problems with AI
 
 📫 Let's talk if you're hiring engineers who can ship, scale, adapt - and build intelligent systems that actually work in production.
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dynamitedeeps&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dynamitedeeps)
